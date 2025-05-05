@@ -50,8 +50,8 @@ ETenho dois princípios - Sempre buscar aprender mais e exercitar aquilo em que 
 ---
 
 ### Github Status
-![Big-Plato's Stats](https://github-readme-stats.vercel.app/api?username=Big-Plato&theme=dark&show_icons=true&hide_border=false&count_private=true)
-![Big-Plato's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Big-Plato&theme=dark&show_icons=true&hide_border=false&layout=compact)
+![luis-octavius's Stats](https://github-readme-stats.vercel.app/api?username=luis-octavius&theme=dark&show_icons=true&hide_border=false&count_private=true)
+![luis-octavius's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luis-octavius&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
 ---
 
