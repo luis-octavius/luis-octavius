@@ -1,5 +1,4 @@
 # Bem vindo ao meu perfil 👋
----
 
 ## Sobre mim
 - 🎓 **Graduado em Filosofia**: Forte base em resolução de problemas e pensamento crítico-lógico.  
