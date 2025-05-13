@@ -1,9 +1,4 @@
 # Bem vindo ao meu perfil 👋
-
-Sou graduado em Filosofia e, atualmente, estou cursando mestrado na mesma área.  
-Sempre amei tecnologia, por isso me tornei um desenvolvedor autodidata que estuda todos os dias para aprimorar aquilo que sei e aprender mais sobre o que não sei.
-ETenho dois princípios - Sempre buscar aprender mais e exercitar aquilo em que quero me tornar bom - guiam meu aprendizado e desenvolvimento.
-
 ---
 
 ## Sobre mim
@@ -42,7 +37,7 @@ ETenho dois princípios - Sempre buscar aprender mais e exercitar aquilo em que 
     <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
 
-  <a href="https://www.linkedin.com/in/luis-octavio" target="_blank">
+   <a href="https://www.linkedin.com/in/luis-octavio" target="_blank">
     <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>   
 </div>
