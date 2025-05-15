@@ -20,7 +20,7 @@
 
 
 #### Ferramentas & Tecnologias 
-[![My Skills](https://skillicons.dev/icons?i=linux,vscode,idea,npm,babel,webpack,git,github,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,git,npm,maven)](https://skillicons.dev)
 
 ---
 
