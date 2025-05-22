@@ -49,5 +49,8 @@
 
 ---
 
-Sinta-se livre para conectar se quiser colaborar ou apenas falar sobre filosofia e tecnologia. 
+Sinta-se livre para conectar se quiser colaborar ou apenas falar sobre filosofia e tecnologia.  
+  
+![](https://komarev.com/ghpvc/?username=luis-octavius&color=blueviolet)
+
 
