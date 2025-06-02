@@ -48,8 +48,6 @@
 ![luis-octavius's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luis-octavius&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
 ---
-
-Sinta-se livre para conectar se quiser colaborar ou apenas falar sobre filosofia e tecnologia.  
   
 ![](https://komarev.com/ghpvc/?username=luis-octavius&color=blueviolet)
 
