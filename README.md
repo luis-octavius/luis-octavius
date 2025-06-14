@@ -13,7 +13,7 @@
 
 ### Skills
 #### Linguagens & Frameworks
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind)](https://skillicons.dev)
 
 #### Aprendendo 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql)](https://skillicons.dev)
