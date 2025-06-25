@@ -5,8 +5,7 @@
 - 🚀 **Desenvolvedor autodidata**: Entusiasta da tecnologia e do aprendizado contínuo.  
 - 💡 **Interesses**: Filosofia, tecnologia e a intersecção entre os dois.
 - 🌱 **Estudando atualmente**:
-1. Java e Spring Boot, Desenvolvimento Back-end (**Alura + One**).  
-2. JavaScript, HTML, CSS, React and Node [**The Odin Project**](https://www.theodinproject.com/dashboard).
+  JavaScript, HTML, CSS, React and Node [**The Odin Project**](https://www.theodinproject.com/dashboard).
    
 
 ---
@@ -16,7 +15,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind)](https://skillicons.dev)
 
 #### Aprendendo 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgresql,mongo,node)](https://skillicons.dev)
 
 
 #### Ferramentas & Tecnologias 
