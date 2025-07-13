@@ -12,14 +12,14 @@
 
 ### Skills
 #### Linguagens & Frameworks
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,python)](https://skillicons.dev)
 
 #### Aprendendo 
-[![My Skills](https://skillicons.dev/icons?i=postgresql,mongo,node)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgresql,mongo,nodejs)](https://skillicons.dev)
 
 
 #### Ferramentas & Tecnologias 
-[![My Skills](https://skillicons.dev/icons?i=linux,git,npm,maven)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,git,npm,firebase)](https://skillicons.dev)
 
 ---
 
