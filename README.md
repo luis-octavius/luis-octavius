@@ -1,11 +1,14 @@
-# Bem vindo ao meu perfil 👋
+# Seja bem vindo ao meu perfil 👋
 
-## Sobre mim
-- 🎓 **Graduado em Filosofia**: Forte base em resolução de problemas e pensamento crítico-lógico.  
-- 🚀 **Desenvolvedor autodidata**: Entusiasta da tecnologia e do aprendizado contínuo.  
-- 💡 **Interesses**: Filosofia, tecnologia e a intersecção entre os dois.
-- 🌱 **Estudando atualmente**:
-  JavaScript, HTML, CSS, React and Node [**The Odin Project**](https://www.theodinproject.com/dashboard).
+> __Aqui compartilho um pouco dos meus estudos, desenvolvo aplicações que me façam compreender a lógica e a base por trás das aplicações que usamos diariamente em nosso mundo não só digital, mas também real. Abaixo tem algumas coisas que acho importante ressaltar sobre mim.__
+  
+🎓 **Graduado em Filosofia**: Forte base em resolução de problemas e pensamento crítico-lógico.  
+
+🚀 **Desenvolvedor autodidata**: Entusiasta da tecnologia e do aprendizado contínuo. 
+
+💡 **Interesses**: Filosofia, tecnologia e a construção de aplicações.   
+
+🌱 **Estudando atualmente**: Depois de aprender um pouco sobre a área do frontend, principalmente mexendo com JavaScript, HTML e CSS e entender o básico de React e Tailwind, estou focado atualmente em entender como JavaScript funciona no backend. Para isso, estudo pelo site [**The Odin Project**](https://www.theodinproject.com/dashboard). Também estou focado em terminar a trilha de backend do site [**Boot.dev**](https://www.boot.dev), nessa plataforma estudo **Python** e, eventualmente, me aprofundarei mais em **TypeScript** - buscando sair do básico - e aprender ferramentas de infraestrutura.
    
 
 ---
@@ -24,12 +27,11 @@
 ---
 
 ### Objetivos
-- 🔭 **Curto-prazo**: Construir uma aplicação fullstack que contribua para divulgação da filosofia. 
-- 🌟 **Longo-prazo**: Contribuir em projetos open source e trabalhar na área de programação. 
+- Busco um emprego na área de TI, no qual eu possa me aprimorar e lidar com mais casos do mundo real de desenvolvimento. 
 
 ---
 
-### Vamos nos conectar!
+### Redes Sociais
 <div style="display: flex; gap: 10px;">
   <a href="mailto:luisoctavius.sc@gmail.com" target="_blank">
     <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
