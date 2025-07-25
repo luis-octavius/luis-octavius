@@ -22,7 +22,7 @@
 
 
 #### Ferramentas & Tecnologias 
-[![My Skills](https://skillicons.dev/icons?i=linux,git,npm,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,git,npm,firebase,vscode,)](https://skillicons.dev)
 
 ---
 
