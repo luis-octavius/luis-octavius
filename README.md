@@ -1,38 +1,37 @@
-# Seja bem vindo ao meu perfil 👋
+# Seja bem vindo 👋
 
-> __Aqui compartilho um pouco dos meus estudos, desenvolvo aplicações que me façam compreender a lógica e a base por trás das aplicações que usamos diariamente em nosso mundo não só digital, mas também real. Abaixo tem algumas coisas que acho importante ressaltar sobre mim.__
+> __Aqui compartilho um pouco dos meus estudos, desenvolvo aplicações que me auxiliam a compreender a base por trás das aplicações que usamos diariamente em nosso mundo. Abaixo há coisas importantes de serem ressaltadas:__
   
-🎓 **Graduado em Filosofia**: Forte base em resolução de problemas e pensamento crítico-lógico.  
-
-🚀 **Desenvolvedor autodidata**: Entusiasta da tecnologia e do aprendizado contínuo. 
-
-💡 **Interesses**: Filosofia, tecnologia e a construção de aplicações.   
-
-🌱 **Estudando atualmente**: Depois de aprender um pouco sobre a área do frontend, principalmente mexendo com JavaScript, HTML e CSS e entender o básico de React e Tailwind, estou focado atualmente em entender como JavaScript funciona no backend. Para isso, estudo pelo site [**The Odin Project**](https://www.theodinproject.com/dashboard). Também estou focado em terminar a trilha de backend do site [**Boot.dev**](https://www.boot.dev), nessa plataforma estudo **Python** e, eventualmente, me aprofundarei mais em **TypeScript** - buscando sair do básico - e aprender ferramentas de infraestrutura.
+- 🎓 **Graduado em Filosofia**: Forte base em resolução de problemas e pensamento crítico-lógico.  
+- 🚀 **Desenvolvedor autodidata**: Entusiasta de novas tecnologias e de aprendizagem contínua. 
+- 💡 **Interesses**: Filosofia, tecnologia e livros.   
+- 🌱 **Estudando atualmente**: Depois de aprender um pouco sobre a área do frontend, principalmente mexendo com JavaScript, HTML/CSS, React e Tailwind, estou focado atualmente em entender como o backend funciona. Por enquanto, faço a trilha de backend do site [**Boot.dev**](https://www.boot.dev), nessa plataforma estudo **Python** e, eventualmente, me aprofundarei mais em **Go** (uma linguagem que acho promissora) e estou cursando **Análise e Desenvolvimento de Sistemas** pela Uninter, com previsão de término em Dez/2027. 
    
 
 ---
 
 ### Skills
 #### Linguagens & Frameworks
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,python)](https://skillicons.dev)
 
-#### Aprendendo 
-[![My Skills](https://skillicons.dev/icons?i=postgresql,mongo,nodejs)](https://skillicons.dev)
+#### Aprendendo
 
+[![My Skills](https://skillicons.dev/icons?i=postgresql,mongo,go)](https://skillicons.dev)
 
-#### Ferramentas & Tecnologias 
+#### Ferramentas & Tecnologias
+
 [![My Skills](https://skillicons.dev/icons?i=linux,git,npm,firebase,vscode,)](https://skillicons.dev)
 
 ---
 
 ### Objetivos
-- Busco um emprego na área de TI, no qual eu possa me aprimorar e lidar com mais casos do mundo real de desenvolvimento. 
-
+- Busco um emprego na área de TI, no qual eu possa me aprimorar e lidar com mais casos do mundo real de desenvolvimento.
+- Contribuir com Open-source.
 ---
 
 ### Redes Sociais
-<div style="display: flex; gap: 10px;">
+<div style="display: flex; gap: 10px; text-align: center;">
   <a href="mailto:luisoctavius.sc@gmail.com" target="_blank">
     <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
