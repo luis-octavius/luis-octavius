@@ -46,8 +46,8 @@
 ---
 
 ### Github Status
-![luis-octavius's Stats](https://github-readme-stats.vercel.app/api?username=luis-octavius&theme=radical&show_icons=true&hide_border=false&count_private=true)
-![luis-octavius's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luis-octavius&theme=radical&show_icons=true&hide_border=false&layout=compact)
+![luis-octavius's Stats](https://github-readme-stats.vercel.app/api?username=luis-octavius&theme=algolia&show_icons=true&hide_border=false&count_private=true)
+![luis-octavius's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luis-octavius&theme=algolia&show_icons=true&hide_border=false&layout=compact)
 
 ---
   
