@@ -1,33 +1,10 @@
-# Seja bem vindo 👋
-
-Aqui compartilho um pouco dos meus estudos, desenvolvo aplicações que me auxiliam a compreender a base por trás dos aplicativos que usamos diariamente. Atualmente estou cursando Análise e Desenvolvimento de Sistemas pela Uninter com previsão de conclusão em Dez/2027.
-
-Abaixo há coisas importantes de serem ressaltadas:
-  
-**Graduado em Filosofia**: Forte base em resolução de problemas e pensamento crítico-lógico.  
-**Desenvolvedor autodidata**: Entusiasta de novas tecnologias e da aprendizagem contínua.   
-**Interesses**: Filosofia, tecnologia e livros.   
-   
----
-
 ### Skills
 #### Linguagens & Frameworks
-
 [![My Skills](https://skillicons.dev/icons?i=go,postgresql,sqlite,html,css,js,react,tailwind,python)](https://skillicons.dev)
 
-#### Aprendendo e/ou Desenvolvendo atualmente
-
-[![My Skills](https://skillicons.dev/icons?i=postgresql,go)](https://skillicons.dev)
-
 #### Ferramentas & Tecnologias
+[![My Skills](https://skillicons.dev/icons?i=linux,git,npm,docker,rabbitmq,aws)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=linux,git,npm,docker,rabbitmq)](https://skillicons.dev)
-
----
-
-### Objetivos
-- Busco um emprego na área de TI como estagiário, no qual eu possa me aprimorar e lidar com mais casos do mundo real de desenvolvimento.
-- Contribuir com Open-source.
 ---
 
 ### Redes Sociais
