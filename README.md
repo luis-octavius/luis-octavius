@@ -1,25 +1,30 @@
-### Skills
-#### Linguagens & Frameworks
-[![My Skills](https://skillicons.dev/icons?i=go,postgresql,sqlite,html,css,js,react,tailwind,python)](https://skillicons.dev)
+Hello, I'm Luis Octávio, I'm currently studying **System Analysis and Development**. I have a bachelor's degree at Philosophy too that gave me a strong analytical process of thinking and understand logical problems.   
+I began my journey in **front-end development** learning the core technologies: HTML, CSS and JavaScript.  
+When I discovered **backend development**, I became fascinated with learning how to structure backend systems.  
+Specializing in **Python** and **Go**, I started build projects to deepen my understanding of backend system development.   
+I an mow actively looking for an **entry-level position** where I can apply my skills, contribute to real-world projects to grow as a developer.  
 
-#### Ferramentas & Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=linux,git,npm,docker,rabbitmq,aws)](https://skillicons.dev)
+<h3 align="left">Skills</h3>
 
----
 
-### Redes Sociais
-<div style="display: flex; gap: 10px; text-align: center;">
-  <a href="mailto:luisoctavius.sc@gmail.com" target="_blank">
-    <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,docker,rabbitmq,go,python,aws,git,sqlite,postgres"/>
   </a>
-  <a href="https://www.linkedin.com/in/luis-octavio" target="_blank">
-    <img loading="lazy" src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>   
-</div>  
+</p>
 
----
+#### Books I'm reading
+- [The Red and the Black](https://www.amazon.com/Red-Black-Chronicle-Nineteenth-Classics/dp/0199539251/ref=sr_1_2)
+- [Learning Go](https://www.amazon.com/Learning-Go-Idiomatic-Real-World-Programming/dp/1492077216/ref=sr_1_2)
 
-### Github Status
-![luis-octavius's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luis-octavius&theme=algolia&show_icons=true&hide_border=false&layout=compact)
+#### Current Courses 
+- [Learn HTTP Protocol in Go](https://www.boot.dev/courses/learn-http-protocol-golang)
+- [Learn Git 2](https://www.boot.dev/courses/learn-git-2)
 
+### Current Projects
+- [Akrasía](https://github.com/luis-octavius/akrasia) is a CLI application written in Go with SQLite for data persistance and Cobra for managing commands. It is intended to help with managing tasks.
+- Job Tracker with Web Scraping
 
+#### Contact: 
+<a href="mailto:luisoctavio.sc@proton.me">Send me an email</a>
+<a href="https://www.linkedin.com/in/luis-octavio/">LinkedIn</a>
