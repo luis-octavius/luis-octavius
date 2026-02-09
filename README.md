@@ -9,15 +9,15 @@ I an mow actively looking for an **entry-level position** where I can apply my s
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,docker,rabbitmq,go,python,aws,git,sqlite,postgres"/>
+    <img src="https://skillicons.dev/icons?i=linux,docker,rabbitmq,go,java,python,aws,git,sqlite,postgres,firebase"/>
   </a>
 </p>
 
-#### Books I'm reading
+### Books I'm reading
 - [The Red and the Black](https://www.amazon.com/Red-Black-Chronicle-Nineteenth-Classics/dp/0199539251/ref=sr_1_2)
 - [Learning Go](https://www.amazon.com/Learning-Go-Idiomatic-Real-World-Programming/dp/1492077216/ref=sr_1_2)
 
-#### Current Courses 
+### Current Courses 
 - [Learn HTTP Protocol in Go](https://www.boot.dev/courses/learn-http-protocol-golang)
 - [Learn Git 2](https://www.boot.dev/courses/learn-git-2)
 
@@ -25,6 +25,14 @@ I an mow actively looking for an **entry-level position** where I can apply my s
 - [Akrasía](https://github.com/luis-octavius/akrasia) is a CLI application written in Go with SQLite for data persistance and Cobra for managing commands. It is intended to help with managing tasks.
 - [Cintia](https://github.com/luis-octavius/cintia) is a Job Tracker that scrapes real job sites and manages the applications of the user (Not launched yet, just slowly building it).
 
-#### Contact: 
-<a href="mailto:luisoctavio.sc@proton.me">Send me an email</a>
+### Contact 
+<a href="mailto:luisoctavio.sc@proton.me">Send me an email</a>  
 <a href="https://www.linkedin.com/in/luis-octavio/">LinkedIn</a>
+
+<br>
+<br>
+
+<p align="right">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=luis-octavius&layout=compact&langs_count=6&theme=midnight-purple" />
+</p>
+
