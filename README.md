@@ -23,7 +23,7 @@ I an mow actively looking for an **entry-level position** where I can apply my s
 
 ### Current Projects
 - [Akrasía](https://github.com/luis-octavius/akrasia) is a CLI application written in Go with SQLite for data persistance and Cobra for managing commands. It is intended to help with managing tasks.
-- Job Tracker with Web Scraping
+- [Cintia](https://github.com/luis-octavius/cintia) is a Job Tracker that scrapes real job sites and manages the applications of the user (Not launched yet, just slowly building it).
 
 #### Contact: 
 <a href="mailto:luisoctavio.sc@proton.me">Send me an email</a>
