@@ -9,7 +9,7 @@ I an mow actively looking for an **entry-level position** where I can apply my s
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,docker,rabbitmq,go,python,aws,git,sqlite,postgres"/>
+    <img src="https://skillicons.dev/icons?i=linux,docker,rabbitmq,go,java,python,aws,git,sqlite,postgres,firebase"/>
   </a>
 </p>
 
@@ -26,5 +26,5 @@ I an mow actively looking for an **entry-level position** where I can apply my s
 - [Cintia](https://github.com/luis-octavius/cintia) is a Job Tracker that scrapes real job sites and manages the applications of the user (Not launched yet, just slowly building it).
 
 #### Contact: 
-<a href="mailto:luisoctavio.sc@proton.me">Send me an email</a>
+<a href="mailto:luisoctavio.sc@proton.me">Send me an email</a>  
 <a href="https://www.linkedin.com/in/luis-octavio/">LinkedIn</a>
