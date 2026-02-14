@@ -28,3 +28,5 @@ I an mow actively looking for an **entry-level position** where I can apply my s
 #### Contact: 
 <a href="mailto:luisoctavio.sc@proton.me">Send me an email</a>  
 <a href="https://www.linkedin.com/in/luis-octavio/">LinkedIn</a>
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=luis-octavius&layout=compact&langs_count=6&theme=midnight-purple)](https://github-stats-extended.vercel.app/api/top-langs?username=luis-octavius&layout=compact&langs_count=6&theme=midnight-purple)
