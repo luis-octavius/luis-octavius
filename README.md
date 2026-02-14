@@ -32,4 +32,7 @@ I an mow actively looking for an **entry-level position** where I can apply my s
 <br>
 <br>
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=luis-octavius&layout=compact&langs_count=6&theme=midnight-purple)](https://github-stats-extended.vercel.app/api/top-langs?username=luis-octavius&layout=compact&langs_count=6&theme=midnight-purple)
+<p align="right">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=luis-octavius&layout=compact&langs_count=6&theme=midnight-purple" />
+</p>
+
