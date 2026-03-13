@@ -1,8 +1,4 @@
-Hello, I'm Luis Octávio, I'm currently studying **System Analysis and Development**. I have a bachelor's degree at Philosophy too that gave me a strong analytical process of thinking and understand logical problems.   
-I began my journey in **front-end development** learning the core technologies: HTML, CSS and JavaScript, React and actually I'm learning TypeScript.  
-When I discovered **backend development**, I became fascinated with learning how to structure backend systems.  
-Specializing in **Python** and **Go**, I started build projects to deepen my understanding of backend system development.   
-I an mow actively looking for an **entry-level position** where I can apply my skills, contribute to real-world projects to grow as a developer both in front-end or backend.  
+Hello, I'm Luis Octávio, I'm currently studying **System Analysis and Development**. I have a bachelor's degree at Philosophy that gave me a strong analytical process of thinking and understand logical problems.   
 
 <h2 align="left">Skills</h3>
 
