@@ -6,9 +6,11 @@ Hello, I'm Luis Octávio, I'm currently studying **System Analysis and Developme
 <p align="left">
   <a href="https://skillicons.dev">
     <h3>Front-end</h2>
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind"/>
     <h3>Back end</h2>
-    <img src="https://skillicons.dev/icons?i=linux,docker,rabbitmq,go,python,aws,git,sqlite,postgres,firebase"/>
+    <img src="https://skillicons.dev/icons?i=rabbitmq,go,python,aws,ts,nodejs,postgres,firebase"/>
+    <h3>Tools</h3>
+    <img src="https://skillicons.dev/icons?i=linux,git,npm,docker,"/>
   </a>
 </p>
 
