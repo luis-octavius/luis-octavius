@@ -17,7 +17,6 @@ Hello, I'm Luis Octávio, I'm currently studying **System Analysis and Developme
 
 ### Current Projects
 - [Akrasía](https://github.com/luis-octavius/akrasia) — CLI task manager in Go with SQLite and Cobra. Active development (87+ commits).
-- [Cintia](https://github.com/luis-octavius/cintia) — Job tracker that scrapes real sites and manages applications (in development).
 
 ### Contact 
 <a href="mailto:luisoctavio.sc@proton.me">Send me an email</a>  
