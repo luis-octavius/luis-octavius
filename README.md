@@ -1,4 +1,4 @@
-Hello, I'm Luis Octávio, I'm currently studying **System Analysis and Development**. I have a bachelor's degree at Philosophy that gave me a strong analytical process of thinking and understand logical problems.
+Hello, I'm Luis Octávio, I'm currently studying **System Analysis and Development**. I have a bachelor's degree at Philosophy that gave me a strong analytical process of thinking and understand logical problems. 
 
 **Currently:** Full-stack intern @TRYCMD — building serverless apps with `TypeScript`, `React`, and `AWS`.
 
@@ -12,11 +12,14 @@ Hello, I'm Luis Octávio, I'm currently studying **System Analysis and Developme
     <img src="https://skillicons.dev/icons?i=ts,nodejs,aws,postgres,go,python"/>
     <h3>Tools</h3>
     <img src="https://skillicons.dev/icons?i=linux,git,npm,docker,vite"/>
+    <h3>Learning and Developing</h3>
+    <img src="https://skillicons.dev/icons?i=nest,next"/>
   </a>
 </p>
 
 ### Current Projects
-- [Akrasía](https://github.com/luis-octavius/akrasia) — CLI task manager in Go with SQLite and Cobra. Active development (87+ commits).
+- [Akrasía](https://github.com/luis-octavius/akrasia) — CLI task manager in Go with SQLite and Cobra with 15+ commands, streak tracking, cron jobs, unit tests timezone-aware and Docker. Active development (87+ commits). The name is based on the greek concept that describes the lack of self control. 
+- [Taskflow](https://github.com/luis-octavius/taskflow) - Project that I am building to learn both NestJS and NextJS. 
 
 ### Contact 
 <a href="mailto:luisoctavio.sc@proton.me">Send me an email</a>  
