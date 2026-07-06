@@ -29,5 +29,5 @@ Hello, I'm Luis Octávio, I'm currently studying **System Analysis and Developme
 <br>
 
 <p align="right">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=luis-octavius&layout=compact&langs_count=6&theme=midnight-purple" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=luis-octavius&layout=compact&langs_count=6&theme=nightowl" />
 </p>
