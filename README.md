@@ -1,6 +1,6 @@
 Hello, I'm Luis Octávio, I'm currently studying **System Analysis and Development**. I have a bachelor's degree at Philosophy that gave me a strong analytical process of thinking and understand logical problems. 
 
-**Currently:** Full-stack intern @TRYCMD — building serverless apps with `TypeScript`, `React`, and `AWS`.
+**Currently:** Software Developer Intern @KDM.
 
 <h2 align="left">Skills</h3>
 
