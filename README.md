@@ -1,4 +1,4 @@
-Hello, I'm Luis Octávio, I'm currently studying **System Analysis and Development**. I have a bachelor's degree at Philosophy that gave me a strong analytical process of thinking and understand logical problems. 
+Hello, I'm Luis Octávio, I'm currently studying **System Analysis and Development**. I have a masters's degree at Philosophy that gave me a strong analytical process of thinking to tackle and understand logical problems, which I really enjoy.  
 
 **Currently:** Software Developer Intern @KDM.
 
