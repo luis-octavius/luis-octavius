@@ -28,6 +28,21 @@ Hello, I'm Luis Octávio, I'm currently studying **System Analysis and Developme
 <br>
 <br>
 
-<p align="right">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=luis-octavius&layout=compact&langs_count=6&theme=nightowl" />
-</p>
+<a href="https://github-stats-extended.vercel.app/api?username=luis-octavius">
+  <picture>
+    <source
+      srcset="https://github-stats-extended.vercel.app/api?username=luis-octavius&theme=dark_github"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img height="200" align="center" src="https://github-stats-extended.vercel.app/api?username=luis-octavius&theme=light_github" />
+  </picture>
+</a>
+<a href="https://github-stats-extended.vercel.app/api/top-langs?username=luis-octavius&layout=compact&langs_count=8&card_width=320">
+  <picture>
+    <source
+      srcset="https://github-stats-extended.vercel.app/api/top-langs?username=luis-octavius&layout=compact&langs_count=8&card_width=320&theme=dark_github"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img height="200" align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=luis-octavius&layout=compact&langs_count=8&card_width=320&theme=tokyo-dark&hide=java" />
+  </picture>
+</a>
