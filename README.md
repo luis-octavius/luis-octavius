@@ -42,6 +42,6 @@ I am currently working as a Software Developer Internet at Katalyst Data Managem
       srcset="https://github-stats-extended.vercel.app/api/top-langs?username=luis-octavius&layout=compact&langs_count=8&card_width=320&theme=dark_github"
       media="(prefers-color-scheme: dark)"
     />
-    <img height="200" align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=luis-octavius&layout=compact&langs_count=8&card_width=320&theme=tokyo-dark&hide=java" />
+    <img height="200" align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=luis-octavius&layout=compact&langs_count=10&theme=nightowl" />
   </picture>
 </a>
