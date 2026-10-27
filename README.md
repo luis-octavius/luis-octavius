@@ -27,21 +27,7 @@ I am currently working as a Software Developer Internet at Katalyst Data Managem
 <br>
 <br>
 
-<a href="https://github-stats-extended.vercel.app/api?username=luis-octavius">
-  <picture>
-    <source
-      srcset="https://github-stats-extended.vercel.app/api?username=luis-octavius&theme=dark_github"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img height="200" align="center" src="https://github-stats-extended.vercel.app/api?username=luis-octavius&theme=light_github" />
-  </picture>
-</a>
-<a href="https://github-stats-extended.vercel.app/api/top-langs?username=luis-octavius&layout=compact&langs_count=8&card_width=320">
-  <picture>
-    <source
-      srcset="https://github-stats-extended.vercel.app/api/top-langs?username=luis-octavius&layout=compact&langs_count=8&card_width=320&theme=dark_github"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img height="200" align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=luis-octavius&layout=compact&langs_count=10&theme=nightowl" />
-  </picture>
-</a>
+<p align="right" margin=0>
+<img src="https://github-stats-extended.vercel.app/api?username=luis-octavius&theme=nightowl" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=luis-octavius&layout=compact&langs_count=8&theme=nightowl" />
+</p>
